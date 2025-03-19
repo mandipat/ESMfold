@@ -23,6 +23,7 @@ A browser window will open automatically. Enter your protein sequence to obtain 
 
 ## Project Files
 - `app.py`: The main Streamlit application.
+- `requirements.txt`: Requirements File
 
 
 ## Acknowledgements
